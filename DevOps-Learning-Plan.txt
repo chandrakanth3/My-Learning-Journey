@@ -1,0 +1,4 @@
+Learned some of the Linux commands and Azure DevOps
+1. Learned some basic Linux commands (e.g., ls, cd, mkdir) using an online terminal.
+2. Explored Azure DevOps by setting up a free account and created Resource Groups,Virtual Machine,Virtual Networks and exploring more.
+3. Practice Git commands to manage version control for future projects.
